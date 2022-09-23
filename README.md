@@ -7,3 +7,91 @@
 SallyClorinda/SallyClorinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+   ###   Hello World! :yellow_heart:
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+
+<hr>
+
+## My Skills :computer:
+
+- **Programming Languages**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+
+<td align="center" width="50%">
+<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+</td>
+
+</tr>
+
+</tbody>
+</table>
+
+
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+</td>
+
+</tr>
+
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+
+</tr>
+
+</tbody>
+</table>
+
+<hr>
+
+## Currently Learning :beginner:
+
+- **Data Science**
+
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+</td>
+
+
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+## Connect with me. :smiley:
+
+
+Last Edited on: 29/11/2020

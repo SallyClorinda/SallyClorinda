@@ -11,9 +11,27 @@ You can click the Preview link to take a look at your changes.
 
 
    ###   Hello World! :yellow_heart:
-<center><img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/></center>
+<table>
+<tbody>
+<tr>
+<td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+<td><img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/></td>
 
-<hr>
+</tr>
+</tbody>
+</table>
+   
+
 
 ## My Skills :computer:
 
@@ -21,7 +39,6 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
- <td></td>
  <td align="center" width="50%">
  <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
  </td>

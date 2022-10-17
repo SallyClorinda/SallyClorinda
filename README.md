@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SallyClorinda
 - 👀 I’m interested in HTML, CSS, and JavaScript programming language 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 Follow my GitHub, and I will Follback You 😉
+- 📫 I'm a junior Front End because I interested in
 
 <!---
 SallyClorinda/SallyClorinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +20,11 @@ You can click the Preview link to take a look at your changes.
 - **Programming Languages**
 <table>
 <tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-
+<tr>
+ <td></td>
+ <td align="center" width="50%">
+ <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+ </td>
 </tr>
 
 </tbody>

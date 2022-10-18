@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SallyClorinda
 - 👀 I’m interested in HTML, CSS, and JavaScript programming language 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
--  I'm interested in Front End 🥰🌈
+- 🦄 I'm interested in Front End 🥰🌈
 
 <!---
 SallyClorinda/SallyClorinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
